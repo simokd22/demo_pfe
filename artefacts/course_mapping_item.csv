@@ -1,0 +1,605 @@
+course_idx,course_id,course_name
+0,childnutrition,Child Nutrition and Cooking
+1,learning-how-to-learn,Learning How to Learn: Powerful mental tools to help you master tough subjects
+2,strategic-management,Strategic Management
+3,python-network-data,Using Python to Access Web Data
+4,python,Programming for Everybody (Getting Started with Python)
+5,positive-psychology,Positive Psychology
+6,python-databases,Using Databases with Python
+7,python-data,Python Data Structures
+8,big-history,Big History: Connecting Knowledge
+9,html-css-javascript-for-web-developers,"HTML, CSS, and Javascript for Web Developers"
+10,duke-programming-web,"Programming Foundations with JavaScript, HTML and CSS"
+11,global-energy,Politics and Economics of International Energy
+12,learn-to-program,Learn to Program: The Fundamentals
+13,introcss,Introduction to CSS3
+14,neural-networks-deep-learning,Neural Networks and Deep Learning
+15,python-data-analysis,Introduction to Data Science in Python
+16,probability-intro,Introduction to Probability and Data with R
+17,big-data-introduction,Introduction to Big Data
+18,quantitative-methods,Quantitative Methods
+19,os-power-user,Operating Systems and You: Becoming a Power User
+20,computer-networking,The Bits and Bytes of Computer Networking
+21,machine-learning,Machine Learning
+22,linear-algebra-machine-learning,Mathematics for Machine Learning: Linear Algebra
+23,practical-time-series-analysis,Practical Time Series Analysis
+24,smart-cities,Smart Cities – Management of Smart Urban Infrastructures
+25,data-scientists-tools,The Data Scientist’s Toolbox
+26,nanotechnology,Nanotechnology: A Maker’s Course
+27,google-cbrs-cpi-training,Become a CBRS Certified Professional Installer by Google
+28,grammar-punctuation,Grammar and Punctuation
+29,technical-support-fundamentals,Technical Support Fundamentals
+30,python-data-visualization,"Capstone: Retrieving, Processing, and Visualizing Data with Python"
+31,programming-languages,"Programming Languages, Part A"
+32,craft-of-plot,Creative Writing: The Craft of Plot
+33,cloud-infrastructure-design-process,Reliable Google Cloud Infrastructure: Design and Process
+34,python-crash-course,Crash Course on Python
+35,indigenous-canada,Indigenous Canada
+36,python-operating-system,Using Python to Interact with the Operating System
+37,wharton-introduction-spreadsheets-models,Introduction to Spreadsheets and Models
+38,python-programming-introduction,Python Programming: A Concise Introduction
+39,gte-sustainable-cities,Greening the Economy: Sustainable Cities
+40,nand2tetris2,Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)
+41,python-machine-learning,Applied Machine Learning in Python
+42,the-science-of-well-being,The Science of Well-Being
+43,what-is-datascience,What is Data Science?
+44,classification-vector-spaces-in-nlp,Natural Language Processing with Classification and Vector Spaces
+45,renewable-energy-entrepreneurship,Renewable Energy and Green Building Entrepreneurship
+46,project-planning,Initiating and Planning Projects
+47,negotiation,Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator
+48,gcp-big-data-ml-fundamentals,Google Cloud Platform Big Data and Machine Learning Fundamentals
+49,engineering-mechanics-statics,Introduction to Engineering Mechanics
+50,r-programming,R Programming
+51,international-criminal-law,Introduction to International Criminal Law
+52,system-administration-it-infrastructure-services,System Administration and IT Infrastructure Services
+53,everyday-excel-part-2,"Everyday Excel, Part 2"
+54,intro-common-law,Introduction to English Common Law
+55,modern-world,"The Modern World, Part One: Global History from 1760 to 1910"
+56,theropods-birds,Paleontology: Theropod Dinosaurs and the Origin of Birds
+57,einstein-relativity,Understanding Einstein: The Special Theory of Relativity
+58,python-for-applied-data-science-ai,Python for Data Science and AI
+59,excel-essentials,Excel Skills for Business: Essentials
+60,wharton-marketing,Introduction to Marketing
+61,learn-korean,First Step Korean
+62,learn-speak-korean1,Learn to Speak Korean 1
+63,intro-programming,Code Yourself! An Introduction to Programming
+64,journalism,English for Journalism
+65,philosophy-cognitive-sciences,Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences
+66,aprendiendo-a-aprender,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn)
+67,cancer,Introduction to the Biology of Cancer
+68,intro-data-science-programacion-estadistica-r,Introducción a Data Science: Programación Estadística con R
+69,software-processes-and-agile-practices,Software Processes and Agile Practices
+70,blockchain-basics,Blockchain Basics
+71,uva-darden-digital-product-management,Digital Product Management: Modern Fundamentals
+72,gcp-infrastructure-core-services,Essential Google Cloud Infrastructure: Core Services
+73,convolutional-neural-networks,Convolutional Neural Networks
+74,deep-neural-network,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+75,gcp-fundamentals,Google Cloud Platform Fundamentals: Core Infrastructure
+76,stochasticprocesses,Stochastic processes
+77,data-science-methodology,Data Science Methodology
+78,leadership-21st-century,Leadership in 21st Century Organizations
+79,ai-for-everyone,AI For Everyone
+80,database-management,Database Management Essentials
+81,search-engine-optimization,Introduction to Search Engine Optimization
+82,machine-learning-projects,Structuring Machine Learning Projects
+83,financial-planning,Financial Planning for Young Adults
+84,how-things-work,How Things Work: An Introduction to Physics
+85,understanding-arguments,Think Again I: How to Understand Arguments
+86,fundamentals-of-graphic-design,Fundamentals of Graphic Design
+87,open-source-tools-for-data-science,Tools for Data Science
+88,progfun1,Functional Programming Principles in Scala
+89,python-for-data-visualization,Data Visualization with Python
+90,excel-data-analysis,Introduction to Data Analysis Using Excel
+91,dog-emotion-and-cognition,Dog Emotion and Cognition
+92,introduction-tensorflow,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+93,gamification,Gamification
+94,data-visualization-tableau,Fundamentals of Visualization with Tableau
+95,model-thinking,Model Thinking
+96,aprendiendo-programar-python,Introducción a la programación en Python I: Aprendiendo a programar con Python
+97,aws-fundamentals-going-cloud-native,AWS Fundamentals: Going Cloud-Native
+98,financial-markets-global,Financial Markets
+99,game-development,Introduction to Game Development
+100,public-speaking,Introduction to Public Speaking
+101,sustainability,Introduction to Sustainability
+102,uva-darden-getting-started-agile,Agile Meets Design Thinking
+103,machine-learning-with-python,Machine Learning with Python
+104,applied-data-science-capstone,Applied Data Science Capstone
+105,nlp-sequence-models,Sequence Models
+106,introduction-blockchain-technologies,Introduction to Blockchain Technologies
+107,intro-sql,Introduction to Structured Query Language (SQL)
+108,analytics-business-metrics,Business Metrics for Data-Driven Companies
+109,sql-data-science,Databases and SQL for Data Science
+110,manage-health-covid-19,Mind Control: Managing Your Mental Health During COVID-19
+111,marketing-digital,Marketing in a Digital World
+112,psychological-first-aid,Psychological First Aid
+113,google-machine-learning,How Google does Machine Learning
+114,communication-strategies-virtual-age,Communication Strategies for a Virtual Age
+115,iiot-google-cloud-platform,Industrial IoT on Google Cloud Platform
+116,food-and-health,Stanford Introduction to Food and Health
+117,motivate-people-teams,Inspiring and Motivating Individuals
+118,convolutional-neural-networks-tensorflow,Convolutional Neural Networks in TensorFlow
+119,ecology-conservation,Ecology: Ecosystem Dynamics and Conservation
+120,uva-darden-design-thinking-innovation,Design Thinking for Innovation
+121,user-experience-design,Introduction to User Experience Design
+122,introduction-psychology,Introduction to Psychology
+123,instructional-design-foundations-applications,Instructional Design Foundations and Applications
+124,introduction-to-ai,Introduction to Artificial Intelligence (AI)
+125,wharton-accounting,Introduction to Financial Accounting
+126,powerpoint-presentations,Effective Business Presentations with Powerpoint
+127,uva-darden-project-management,Fundamentals of Project Planning and Management
+128,bcg-uva-darden-digital-transformation,Digital Transformation
+129,ml-foundations,Machine Learning Foundations: A Case Study Approach
+130,java-programming,Java Programming: Solving Problems with Software
+131,duke-behavioral-finance,Behavioral Finance
+132,introduction-g-suite,Introduction to G Suite
+133,content-marketing,The Strategy of Content Marketing
+134,personal-branding,Introduction to Personal Branding
+135,law-student,A Law Student's Toolkit
+136,finanzas-personales,Finanzas personales
+137,introduction-to-software-product-management,Introduction to Software Product Management
+138,transmedia-storytelling,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences"
+139,global-financial-crisis,The Global Financial Crisis
+140,preparing-cloud-professional-cloud-architect-exam,Preparing for the Google Cloud Professional Cloud Architect Exam
+141,build-a-computer,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+142,python-statistics-financial-analysis,Python and Statistics for Financial Analysis
+143,plato,Ancient Philosophy: Plato & His Predecessors
+144,electricity,Electric Industry Operations and Markets
+145,modern-world-2,"The Modern World, Part Two: Global History since 1910"
+146,songwriting-lyrics,Songwriting: Writing the Lyrics
+147,excel-intermediate-1,Excel Skills for Business: Intermediate I
+148,basic-statistics,Basic Statistics
+149,principles-of-macroeconomics,The Power of Macroeconomics: Economic Principles in the Real World
+150,microeconomics,Microeconomics Principles
+151,negotiation-skills,Successful Negotiation: Essential Strategies and Skills
+152,bootstrap-4,Front-End Web UI Frameworks and Tools: Bootstrap 4
+153,wharton-quantitative-modeling,Fundamentals of Quantitative Modeling
+154,feminism-social-justice,Feminism and Social Justice
+155,matlab,Introduction to Programming with MATLAB
+156,ds,Fundamentals of Scalable Data Science
+157,enterprise-architecture,Enterprise Architecture
+158,introtoux-principles-and-processes,Introduction to User Experience Principles and Processes
+159,foundations-big-data-analysis-sql,Foundations for Big Data Analysis with SQL
+160,photography,Seeing Through Photographs
+161,python-basics,Python Basics
+162,what-is-social,What is Social?
+163,english-principles,Teach English Now! Foundational Principles
+164,wharton-financial-accounting,More Introduction to Financial Accounting
+165,positive-psychology-resilience,Positive Psychology: Resilience Skills
+166,sas-programming-basics,Getting Started with SAS Programming
+167,bayesian-statistics,Bayesian Statistics: From Concept to Data Analysis
+168,finance-for-non-finance,Finance for Non-Finance Professionals
+169,wharton-finance,Introduction to Corporate Finance
+170,success,The Science of Success: What Researchers Know that You Should Know
+171,animal-welfare,Animal Behaviour and Welfare
+172,american-law,An Introduction to American Law
+173,introduction-psych,Introduction to Psychology
+174,cs-fundamentals-1,Object-Oriented Data Structures in C++
+175,systematic-review,Introduction to Systematic Review and Meta-Analysis
+176,managing-human-resources,Preparing to Manage Human Resources
+177,writing-for-business,Business Writing
+178,mythology,Greek and Roman Mythology
+179,html,Introduction to HTML5
+180,recruiting-hiring-onboarding-employees,"Recruiting, Hiring, and Onboarding Employees"
+181,philosophy,Introduction to Philosophy
+182,schedule-projects,Budgeting and Scheduling Projects
+183,project-risk-management,Managing Project Risks and Changes
+184,understanding-financial-markets,Understanding Financial Markets
+185,private-equity,Private Equity and Venture Capital
+186,money-banking,Economics of Money and Banking
+187,everyday-parenting,Everyday Parenting: The ABCs of Child Rearing
+188,wharton-contagious-viral-marketing,Viral Marketing and How to Craft Contagious Content
+189,python-functions-files-dictionaries,"Python Functions, Files, and Dictionaries"
+190,industrial-biotech,Industrial Biotechnology
+191,excel-para-negocios,Fundamentos de Excel para Negocios
+192,excel-aplicado-negocios-avanzado,Excel aplicado a los negocios (Nivel Avanzado)
+193,wharton-communication-skills,Improving Communication Skills
+194,astro,Astronomy: Exploring Time and Space
+195,international-humanitarian-law,International Humanitarian Law in Theory and Practice
+196,excel-intermediate-2,Excel Skills for Business: Intermediate II
+197,organizational-behavior,International Leadership and Organizational Behavior
+198,uva-darden-foundations-business-strategy,Foundations of Business Strategy
+199,crash-course-in-causality,A Crash Course in Causality:  Inferring Causal Effects from Observational Data
+200,uva-darden-financial-accounting,Financial Accounting Fundamentals
+201,object-oriented-java,Object Oriented Programming in Java
+202,becoming-a-veterinarian,EDIVET: Do you have what it takes to be a veterinarian?
+203,moral-politics,Moral Foundations of Politics
+204,gis,Fundamentals of GIS
+205,vital-signs,Vital Signs: Understanding What the Body Is Telling Us
+206,information-security-data,Information Security: Context and Introduction
+207,mindshift,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+208,business,English for Business and Entrepreneurship
+209,six-sigma-principles,Six Sigma Principles
+210,python-plotting,"Applied Plotting, Charting & Data Representation in Python"
+211,sciwrite,Writing in the Sciences
+212,global-sustainable-development,"The Sustainable Development Goals – A global, transdisciplinary vision for the future"
+213,gcp-infrastructure-foundation,Essential Google Cloud Infrastructure: Foundation
+214,global-diplomacy,Global Diplomacy – Diplomacy in the Modern World
+215,fundamentals-of-reinforcement-learning,Fundamentals of Reinforcement Learning
+216,excel-vba-for-creative-problem-solving-part-1,"Excel/VBA for Creative Problem Solving, Part 1"
+217,sql-for-data-science,SQL for Data Science
+218,clinical-research,Understanding Clinical Research: Behind the Statistics
+219,epidemic-pandemic-outbreak,"Epidemics, Pandemics and Outbreaks"
+220,epidemiology,Epidemiology: The Basic Science of Public Health
+221,gcp-infrastructure-scaling-automation,Elastic Google Cloud Infrastructure: Scaling and Automation
+222,people-management,The Manager's Toolkit: A Practical Guide to Managing People at Work
+223,probability-statistics,Probability and Statistics: To p or not to p?
+224,wharton-customer-analytics,Customer Analytics
+225,uva-darden-market-analytics,Marketing Analytics
+226,datasciencemathskills,Data Science Math Skills
+227,producing-music,The Art of Music Production
+228,pap,Primeros Auxilios Psicológicos (PAP)
+229,mathematical-thinking,Introduction to Mathematical Thinking
+230,sports-marketing,Sports Marketing
+231,develop-your-musicianship,Developing Your Musicianship
+232,wharton-operations-analytics,Operations Analytics
+233,django-database-web-apps,Web Application Technologies and Django
+234,competencias-digitales-ofimatica,"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)"
+235,golang-getting-started,Getting Started with Go
+236,data-analysis-with-python,Data Analysis with Python
+237,c-plus-plus-white,Основы разработки на C++: белый пояс
+238,decision-making,Data-driven Decision Making
+239,bioinformatics,Biology Meets Programming: Bioinformatics for Beginners
+240,accounting-analytics,Accounting Analytics
+241,natural-language-processing-tensorflow,Natural Language Processing in TensorFlow
+242,algorithmic-toolbox,Algorithmic Toolbox
+243,aws-machine-learning,Getting Started with AWS Machine Learning
+244,front-end-react,Front-End Web Development with React
+245,visual-elements-user-interface-design,Visual Elements of User Interface Design
+246,ux-design-fundamentals,UX Design Fundamentals
+247,machine-learning-business-professionals,Machine Learning for Business Professionals
+248,uol-machine-learning-for-all,Machine Learning for All
+249,business-english-intro,Business English: Networking
+250,professional-emails-english,Write Professional Emails in English
+251,gestionempresarialpyme,Gestión Empresarial Exitosa para Pymes
+252,music-business-foundations,Music Business Foundations
+253,food-beverage-management,Food & Beverage Management
+254,dyslexia-difficulties,Supporting children with difficulties in reading and writing
+255,refugees-21st-century,Refugees in the 21st Century
+256,batch-data-pipelines-gcp,Building Batch Data Pipelines on GCP
+257,neurobiology,Understanding the Brain: The Neurobiology of Everyday Life
+258,forensic-science,Introduction to Forensic Science
+259,speak-english-professionally,"Speak English Professionally: In Person, Online & On the Phone"
+260,norms,"Social Norms, Social Change I"
+261,writing-editing-words,Writing and Editing: Word Choice and Word Order
+262,arbitration-international-disputes,International Law in Action: the Arbitration of International Disputes
+263,devops-culture-and-mindset,DevOps Culture and Mindset
+264,preparing-cloud-associate-cloud-engineer-exam,Preparing for the Google Cloud Associate Cloud Engineer Exam
+265,careerdevelopment,English for Career Development
+266,version-control-with-git,Version Control with Git
+267,oilandgas,Oil & Gas Industry Operations and Markets
+268,teamwork-skills-effective-communication,Teamwork Skills: Communicating Effectively in Groups
+269,ai-for-medical-diagnosis,AI for Medical Diagnosis
+270,introduction-embedded-systems,Introduction to Embedded Systems Software and Development Environments
+271,c-for-everyone,C for Everyone: Programming Fundamentals
+272,neuroscience-neuroimaging,Fundamental Neuroscience for Neuroimaging
+273,company-future-management,Managing the Company of the Future
+274,public-policy,Public Policy Challenges of the 21st Century
+275,brand,"Brand Management: Aligning Business, Brand and Behaviour"
+276,cybersecurity-compliance-framework-system-administration,Cybersecurity Compliance Framework & System Administration
+277,tricky-american-english-pronunciation,Tricky American English Pronunciation
+278,learn-chinese,Chinese for Beginners
+279,analytics-excel,Mastering Data Analysis in Excel
+280,fe-exam,Fundamentals of Engineering Exam Review
+281,modern-art-ideas,Modern Art & Ideas
+282,introduction-cybersecurity-cyber-attacks,Introduction to Cybersecurity Tools & Cyber Attacks
+283,crypto,Cryptography I
+284,financial-engineering-1,Financial Engineering and Risk Management Part I
+285,innovation-management,Innovation Management
+286,humanrights,Human Rights for Open Societies
+287,science-exercise,Science of Exercise
+288,mafash,Management of Fashion and Luxury Companies
+289,sustainable-tourism,Sustainable Tourism – promoting environmental public health
+290,addiction-and-the-brain,The Addicted Brain
+291,aulaconstructivista,Hacia una práctica constructivista en el aula
+292,guitar,Guitar for Beginners
+293,research-methods,Understanding Research Methods
+294,physiology,Introductory Human Physiology
+295,terrorism,Terrorism and Counterterrorism: Comparing Theory and Practice
+296,getting-started-with-essay-writing,Getting Started with Essay Writing
+297,creative-problem-solving,Creative Problem Solving
+298,democracia,Democracia y decisiones públicas. Introducción al análisis de políticas públicas
+299,finanzas-empresariales,Fundamentos de Finanzas Empresariales
+300,exposure-photography,"Cameras, Exposure, and Photography"
+301,horse-care,The Horse Course: Introduction to Basic Care and Management
+302,principles-of-microeconomics,The Power of Microeconomics: Economic Principles in the Real World
+303,introclassicalmusic,Introduction to Classical Music
+304,wind-energy,Wind Energy
+305,erasmus-econometrics,Econometrics: Methods and Applications
+306,mathematics-and-python,Математика и Python для анализа данных
+307,investment-management,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers
+308,gestionar-personas,Claves para Gestionar Personas
+309,medical-neuroscience,Medical Neuroscience
+310,reussir-le-changement,Réussir le Changement
+311,magic-middle-ages,Magic in the Middle Ages
+312,correccion-estilo-variaciones,"Corrección, estilo y  variaciones de la lengua española"
+313,neuroeconomics,Introduction to Neuroeconomics: How the Brain Makes Decisions
+314,negociacion,Negociación exitosa: Estrategias y habilidades esenciales (en español)
+315,seo-fundamentals,Search Engine Optimization Fundamentals
+316,perfect-tenses-modals,Perfect Tenses and Modals
+317,global-financial-markets-instruments,Global Financial Markets and Instruments
+318,european-law-fundamentals,European Business Law: Understanding the Fundamentals
+319,gestion-organizaciones-efectivas,Gestión de organizaciones efectivas
+320,computational-neuroscience,Computational Neuroscience
+321,environmental-law,Introduction to Environmental Law and Policy
+322,moralities,Moralities of Everyday Life
+323,verb-passives,Verb Tenses and Passives
+324,aboriginal-education,Aboriginal Worldviews and Education
+325,painting,In the Studio: Postwar Abstract Painting
+326,ciencia-computacao-python-conceitos,Introdução à Ciência da Computação com Python Parte 1
+327,positive-psychology-visionary-science,Positive Psychology: Martin E. P. Seligman’s Visionary Science
+328,social-impact,Social Impact Strategy: Tools for Entrepreneurs and Innovators
+329,teach-online,Learning to Teach Online
+330,music-theory,Getting Started With Music Theory
+331,supply-chain-logistics,Supply Chain Logistics
+332,construction-project-management,Construction Project Management
+333,forensic-accounting,Forensic Accounting and Fraud Examination
+334,wharton-operations,Introduction to Operations Management
+335,process-mining,Process Mining: Data science in Action
+336,camino-excelencia-gestion-proyectos,Camino a la Excelencia en Gestión de Proyectos
+337,nutrition-pregnancy,Nutrition and Lifestyle in Pregnancy
+338,object-oriented-design,Object-Oriented Design
+339,spanish-vocabulary-meeting-people,Spanish Vocabulary: Meeting People
+340,human-language,Miracles of Human Language: An Introduction to Linguistics
+341,cats-and-dogs,The Truth About Cats and Dogs
+342,programming-fundamentals,Programming Fundamentals
+343,microbiome,Gut Check: Exploring Your Microbiome
+344,introancientegypt,Introduction to Ancient Egypt and Its Civilization
+345,it-security,IT Security: Defense against the digital dark arts
+346,neuromarketing,An Introduction to Consumer Neuroscience & Neuromarketing
+347,google-kubernetes-engine,Getting Started with Google Kubernetes Engine
+348,golang-webservices-1,Разработка веб-сервисов на Go - основы языка
+349,wine,Wine Tasting: Sensory Techniques for Wine Analysis
+350,marketing-gerencial,Marketing Gerencial
+351,healing-with-the-arts,Healing with the Arts
+352,positive-psychiatry,Positive Psychiatry and Mental Health
+353,wharton-entrepreneurship-opportunity,Entrepreneurship 1: Developing the Opportunity
+354,international-organizations-management,International Organizations Management
+355,love-social-justice,Love as a Force for Social Justice
+356,dino101,Dino 101: Dinosaur Paleobiology
+357,biohacking-your-brains-health,Biohacking Your Brain's Health
+358,sports-society,Sports and Society
+359,gcp-exploring-preparing-data-bigquery,Exploring ​and ​Preparing ​your ​Data with BigQuery
+360,dental-medicine-penn,Introduction to Dental Medicine
+361,typography,Introduction to Typography
+362,computational-thinking-problem-solving,Computational Thinking for Problem Solving
+363,six-sigma-organization-advanced,Six Sigma and the Organization (Advanced)
+364,introduction-genomics,Introduction to Genomic Technologies
+365,uva-darden-bcg-pricing-strategy-cost-economics,Cost and Economics in Pricing Strategy
+366,advanced-valuation-and-strategy,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital"
+367,positive-psychology-applications,Positive Psychology: Applications and Interventions
+368,everyday-chinese-medicine,Everyday Chinese Medicine
+369,english-composition,English Composition I
+370,introduction-programming-unity,Introduction to C# Programming and Unity
+371,contabilidad,Contabilidad para no contadores
+372,clinical-trials,Design and Interpretation of Clinical Trials
+373,contracts-1,American Contract Law I
+374,python-osnovy-programmirovaniya,Основы программирования на Python
+375,multivariate-calculus-machine-learning,Mathematics for Machine Learning: Multivariate Calculus
+376,intro-self-driving-cars,Introduction to Self-Driving Cars
+377,ux-ui-design-de-interface,UX / UI: Fundamentos para o design de interface
+378,conversational-experiences-dialogflow,Building Conversational Experiences with Dialogflow
+379,global-diplomacy-un,Global Diplomacy: the United Nations in the World
+380,summary-statistics,Summary Statistics in Public Health
+381,weight-management-beyond-balancing-calories,Weight Management: Beyond Balancing Calories
+382,actualizacion-manejo-diabetes-tipo-2,Actualización en el manejo del paciente con diabetes mellitus tipo 2
+383,technology-of-music-production,The Technology of Music Production
+384,wharton-fintech-overview-payments-regulations,"FinTech: Foundations, Payments, and Regulations"
+385,introduction-to-computer-programming,Introduction to Computer Programming
+386,kotlin-for-java-developers,Kotlin for Java Developers
+387,nutricion-obesidad-sobrepeso,Nutrición y obesidad: control de sobrepeso
+388,emt-foundations,EMT Foundations
+389,introduction-git-github,Introduction to Git and GitHub
+390,excel-advanced,Excel Skills for Business: Advanced
+391,covid-19-what-you-need-to-know,COVID-19: What You Need to Know (CME Eligible)
+392,spectroscopy,Introduction to Molecular Spectroscopy
+393,epidemiology-tools,Essential Epidemiologic Tools for Public Health Practice
+394,creative-thinking-techniques-and-tools-for-success,Creative Thinking: Techniques and Tools for Success
+395,agile-atlassian-jira,Agile with Atlassian Jira
+396,wharton-success,Success
+397,wharton-people-analytics,People Analytics
+398,write-your-first-novel,Write Your First Novel
+399,fashion-design,Fashion as Design
+400,contemporary-art,What Is Contemporary Art?
+401,mental-health,The Social Context of Mental Health and Illness
+402,stem-cells,The Science of Stem Cells
+403,everyday-excel-part-1,"Everyday Excel, Part 1"
+404,getting-started-with-google-sheets,Getting Started with Google Sheets
+405,introduction-statistics-data-analysis-public-health,Introduction to Statistics & Data Analysis in Public Health
+406,family-planning,Personal & Family Financial Planning
+407,aws-fundamentals-addressing-security-risk,AWS Fundamentals: Addressing Security Risk
+408,droits-de-lhomme,Introduction aux Droits de l’Homme
+409,womens-health-human-rights,International Women's Health and Human Rights
+410,finding-purpose-and-meaning-in-life,Finding Purpose and Meaning In Life: Living for What Matters Most
+411,medical-research,Understanding Medical Research: Your Facebook Friend is Wrong
+412,electronics,Introduction to Electronics
+413,solar-energy-basics,Solar Energy Basics
+414,web-development,Introduction to Web Development
+415,uva-darden-agile-testing,Hypothesis-Driven Development
+416,clinical-terminology,Clinical Terminology for International and U.S. Students
+417,autodesk-revit-architectural-design,Autodesk Certified Professional: Revit for Architectural Design Exam Prep
+418,embedded-software-hardware,Embedded Software and Hardware Architecture
+419,supply-chain-principles,Supply Chain Principles
+420,global-environmental-management,Global Environmental Management
+421,race-cultural-diversity-american-life,Race and Cultural Diversity in American Life and History
+422,autodesk-autocad-design-drafting,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep
+423,cybersecurity-roles-processes-operating-system-security,"Cybersecurity Roles, Processes & Operating System Security"
+424,social-psychology,Social Psychology
+425,revisao-sistematica,Revisão Sistemática e Meta-análise
+426,sequence-models-in-nlp,Natural Language Processing with Sequence Models
+427,corporate-finance-essentials,Corporate Finance Essentials
+428,childrens-rights,Children's Human Rights - An Interdisciplinary Introduction
+429,introduction-to-data-analytics,Introduction to Data Analytics
+430,initiating-planning,Engineering Project Management: Initiating and Planning
+431,data-analytics-for-lean-six-sigma,Data Analytics for Lean Six Sigma
+432,statistical-inferences,Improving your statistical inferences
+433,classical-sociological-theory,Classical Sociological Theory
+434,vlsi-cad-logic,VLSI CAD Part I: Logic
+435,uva-darden-agile-team-management,Managing an Agile Team
+436,wharton-launching-startup,Entrepreneurship 2: Launching your Start-Up
+437,fintechlawandpolicy,FinTech Law and Policy
+438,corporatestrategy,Corporate Strategy
+439,drug-development,Drug Development
+440,machine-learning-duke,Introduction to Machine Learning
+441,addiction-treatment,Addiction Treatment: Clinical Skills for Healthcare Providers
+442,corporate-commercial-law-part1,Corporate & Commercial Law I: Contracts & Employment Law
+443,challenging-forensic-science,Challenging Forensic Science: How Science Should Speak to Court
+444,clinical-data-management,Data Management for Clinical Research
+445,introduction-to-calculus,Introduction to Calculus
+446,finance-healthcare-managers,Financial Acumen for Non-Financial Managers
+447,quantum-computing-algorithms,The Introduction to Quantum Computing
+448,information-systems-audit,"Information Systems Auditing, Controls and Assurance"
+449,uva-darden-continous-delivery-devops,Continuous Delivery & DevOps
+450,digital-advertising-landscape,Introduction to the Digital Advertising Landscape
+451,intro-economic-theories,Introduction to Economic Theories
+452,drug-discovery,Drug Discovery
+453,legaltech,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho
+454,write-a-feature-length-screenplay-for-film-or-television,Write A Feature Length Screenplay For Film Or Television
+455,sustainable-finance,Principles of Sustainable Finance
+456,customer-segmentation-prospecting,Customer Segmentation and Prospecting
+457,the-cycle,The Cycle: Management of Successful Arts and Cultural Organizations
+458,what-is-a-proof,Mathematical Thinking in Computer Science
+459,international-relations-theory,Understanding International Relations Theory
+460,mcmc-bayesian-statistics,Bayesian Statistics: Techniques and Models
+461,troubleshooting-debugging-techniques,Troubleshooting and Debugging Techniques
+462,globalenergyandclimatepolicy,Global Energy and Climate Policy
+463,tensorflow-sequences-time-series-and-prediction,"Sequences, Time Series and Prediction"
+464,anatomy403-1x,Anatomy: Musculoskeletal and Integumentary Systems
+465,estrategia-marketing-digital,Marketing Digital
+466,etudier-en-france,Étudier en France: French Intermediate course B1-B2
+467,autism-spectrum-disorder,Autism Spectrum Disorder
+468,cultural-competence-aboriginal-sydney,Cultural Competence - Aboriginal Sydney
+469,genetics-evolution,Introduction to Genetics and Evolution
+470,pca-machine-learning,Mathematics for Machine Learning: PCA
+471,design-strategy,Design-Led Strategy: Design thinking for business strategy and entrepreneurship
+472,managing-as-a-coach,Managing as a Coach
+473,data-lakes-data-warehouses-gcp,Modernizing Data Lakes and Data Warehouses with GCP
+474,data-management,Research Data Management and Sharing
+475,contrats,Rédaction de contrats
+476,immunologyfundamentalsimmunitybcells,Fundamentals of Immunology: Innate Immunity and B-Cell Function
+477,wharton-cryptocurrency-blockchain-introduction-digital-currency,Cryptocurrency and Blockchain: An Introduction to Digital Currencies
+478,google-cloud-product-fundamentals,Google Cloud Product Fundamentals
+479,entrepreneur-changement,Devenir entrepreneur du changement
+480,business-transformation-google-cloud,Business Transformation with Google Cloud
+481,infrastructure-investing,Financing and Investing in Infrastructure
+482,uva-darden-design-thinking-social-sector,Design Thinking for the Greater Good: Innovation in the Social Sector
+483,systems-thinking,Systems Thinking In Public Health
+484,essentials-global-health,Essentials of Global Health
+485,contact-tracing-for-covid-19,Population Health During A Pandemic: Contact Tracing and Beyond
+486,understanding-visualization-data,Understanding and Visualizing Data with Python
+487,arts-heritage,Arts and Heritage Management
+488,fondamentaux-negociation,Les Fondamentaux de la Négociation
+489,digital-business-models,Digital Business Models
+490,corp-sustainability,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity
+491,what-is-compliance,What is Compliance?
+492,effective-compliance-programs,Effective Compliance Programs
+493,privacy-law-data-protection,Privacy Law and Data Protection
+494,business-model,Business Model Innovation
+495,big-data-essentials,"Big Data Essentials: HDFS, MapReduce and Spark RDD"
+496,plantknows,Understanding Plants - Part I: What a Plant Knows
+497,systems-engineering,Introduction to Systems Engineering
+498,probabilistic-models-in-nlp,Natural Language Processing with Probabilistic Models
+499,cloud-azure-intro,Getting Started with Azure
+500,introduction-portfolio-construction-python,Introduction to Portfolio Construction and Analysis with Python
+501,intro-business-analytics,Introduction to Business Analytics: Communicating with Data
+502,sample-based-learning-methods,Sample-based Learning Methods
+503,teachlanguageonline,Teach English Now! Teaching Language Online
+504,ai-for-medical-prognosis,AI for Medical Prognosis
+505,data-science-k-means-clustering-python,Foundations of Data Science: K-Means Clustering in Python
+506,international-security-management,International Security Management
+507,uva-darden-managerial-accounting,Managerial Accounting Fundamentals
+508,leading-for-equity-diversity-inclusion,"Leading for Equity, Diversity and Inclusion in Higher Education"
+509,reporting-extra-financier-strategie-rse,Reporting extra-financier et stratégie RSE
+510,role-of-advertising,Advertising and Society
+511,high-stakes-leadership,High Stakes Leadership: Leading in Times of Crisis
+512,bugs-101,Bugs 101: Insect-Human Interactions
+513,mastering-final-cut-pro,Mastering Final Cut Pro
+514,getting-started-with-tensor-flow2,Getting started with TensorFlow 2
+515,countering-terror-violent-extremism,New Approaches to Countering Terror: Countering Violent Extremism
+516,change-management,Leading transformations: Manage change
+517,child-development,Understanding child development: from synapse to society
+518,diversity-inclusion-workplace,Diversity and inclusion in the workplace
+519,oralcavity,The Oral Cavity: Portal to Health and Disease
+520,international-taxation,Rethinking International Tax Law
+521,human-needs,The Arts and Science of Relationships: Understanding Human Needs
+522,google-cloud-java-spring,Building Scalable Java Microservices with Spring Boot and Spring Cloud
+523,quality-healthcare,Leading Healthcare Quality and Safety
+524,cs-fundamentals-2,Ordered Data Structures
+525,introduction-intellectual-property,Introduction to Intellectual Property
+526,competencias-lab,"Competencias Laborales: Perfiles, Evaluación y Capacitación."
+527,introduction-trading-machine-learning-gcp,"Introduction to Trading, Machine Learning & GCP"
+528,elearning,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age
+529,beyond-the-sustainable-development-goals-addressing-sustainability-and-development,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development
+530,upravleniya-proektami-agile-scrum,Agile и Scrum в работе над проектами и продуктами
+531,schizophrenia,Schizophrenia
+532,clinicalsimulations,Essentials in Clinical Simulations Across the Health Professions
+533,ibm-customer-engagement-specialist,IBM Customer Engagement Specialist Professional Certificate
+534,sdgbusiness,Driving business towards the Sustainable Development Goals
+535,access-control-sscp,Access Controls
+536,site-reliability-engineering-slos,Site Reliability Engineering: Measuring and Managing Reliability
+537,geopolitics-europe,Geopolitics of Europe
+538,international-migrations,International migrations: a global issue
+539,social-innovation,Becoming a changemaker: Introduction to Social Innovation
+540,attention-models-in-nlp,Natural Language Processing with Attention Models
+541,discrete-optimization,Discrete Optimization
+542,truthinourbones-osteoarchaeology-archaeology,Osteoarchaeology: The Truth in Our Bones
+543,making-architecture,Making Architecture
+544,intro-chemistry,Introduction to Chemistry:  Reactions and Ratios
+545,removing-barriers-to-change,Removing Barriers to Change
+546,excellence-operationnelle,L'excellence opérationnelle en pratique
+547,innovation-through-design,"Innovation Through Design: Think, Make, Break, Repeat"
+548,exploring-renewable-energy,Exploring Renewable Energy Schemes
+549,trunk-anatomy,"Anatomy of the Chest, Abdomen, and Pelvis"
+550,transformation-global-food-system,Transformation of the Global Food System
+551,self-determination-theory,"Introduction to Self-Determination Theory: An approach to motivation, development and wellness"
+552,engineering-health-yoga-physiology,Engineering Health: Introduction to Yoga and Physiology
+553,ibm-penetration-testing-incident-response-forensics,"Penetration Testing, Incident Response and Forensics"
+554,intro-accounting-data-analytics-visual,Introduction to Accounting Data Analytics and Visualization
+555,project-execution,Project Execution
+556,international-law-in-action,International Law in Action: A Guide to the International Courts and Tribunals in The Hague
+557,dentistry101,Dentistry 101
+558,accounting-data-analytics-python,Accounting Data Analytics with Python
+559,gender-sexuality,Gender and Sexuality: Diversity and Inclusion in the Workplace
+560,finance-for-non-financial-managers,Finance for Non-Financial Managers
+561,drug-commercialization,Drug Commercialization
+562,getinmooc,Get Interactive: Practical Teaching with Technology
+563,introduction-to-cloud,Introduction to Cloud Computing
+564,legal-tech-startups,Legal Tech & Startups
+565,intercultural,Intercultural Management
+566,foundations-of-mindfulness,Foundations of Mindfulness
+567,chemicals-health,Chemicals and Health
+568,social-economic-networks,Social and Economic Networks:  Models and Analysis
+569,sleep,"Sleep: Neurobiology, Medicine, and Society"
+570,roman-architecture,Roman Architecture
+571,introduction-to-computers-and-office-productivity-software,Introduction to Computers and Office Productivity Software
+572,dermatology,Dermatology: Trip to skin
+573,social-media-marketing-introduction,Introduction to Social Media Marketing
+574,sustainable-fashion,Sustainable Fashion
+575,equine,Equine Welfare and Management
+576,enfant-developpement,Développement psychologique de l'enfant
+577,excel-data-analysis-fundamentals,Excel Fundamentals for Data Analysis
+578,project-management,Project Launch
+579,intro-to-healthcare,Introduction to Healthcare
+580,troubles-spectre-autisme-diagnostic,Troubles du spectre de l'autisme : diagnostic
+581,community-organizing,Community Organizing for Social Justice
+582,japanese-1,Japanese for beginners 1
+583,memoir-reader-relationship,Memoir and Personal Essay: Managing Your Relationship with the Reader
+584,project-planning-1,Project Planning
+585,health-behavior-change,Health Behavior Change: From Evidence to Action
+586,anticorrupcion-introduccion,Anticorrupción: Introducción a conceptos y perspectiva práctica
+587,spanish-in-healthcare-settings,Spanish for Successful Communication in Healthcare Settings
+588,containerized-apps-on-aws,Building Containerized Applications on AWS
+589,finance-fundamentals,Fundamentals of Finance
+590,antibiotic-stewardship,Antibiotic Stewardship
+591,strategic-business-management-microeconomics,Strategic Business Management - Microeconomics
+592,fundamental-machine-learning-healthcare,Fundamentals of Machine Learning for Healthcare
+593,social-work-practice-advocating-social-justice-and-change,Social Work Practice: Advocating Social Justice and Change
+594,enlinea,Cursos en línea: modelo para armar
+595,building-modern-python-applications-on-aws,Building Modern Python Applications on AWS
+596,covid-19-contact-tracing-for-nursing-professionals,COVID-19 Contact Tracing For Nursing Professionals
+597,healthcarejobs,Career 911: Your Future Job in Medicine and Healthcare
+598,epigenetics,Epigenetic Control of Gene Expression
+599,entreprise-changement-climatique,Entreprise et changement climatique
+600,the-business-of-product-management-one,The Business of Product Management I
+601,curanderismo-plants,Curanderismo: Traditional Healing Using Plants
+602,remote-team-management,How to Manage a Remote Team
+603,entrepreneurship-strategy,Entrepreneurship Strategy: From Ideation to Exit

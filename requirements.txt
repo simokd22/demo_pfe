@@ -1,0 +1,12 @@
+# --- PyTorch en version CPU (évite ~2 Go de CUDA inutile sur le cloud) ---
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+streamlit>=1.30
+torch==2.12.0
+numpy
+pandas
+altair
+joblib
+
+# Version EXACTE ayant entraîné gb_ltr_D.pkl — indispensable au dé-picklage.
+scikit-learn==1.6.1

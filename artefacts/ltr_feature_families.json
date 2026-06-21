@@ -1,0 +1,82 @@
+{
+  "Clics VLE (global)": [
+    "clicks_dataplus",
+    "clicks_dualpane",
+    "clicks_externalquiz",
+    "clicks_folder",
+    "clicks_forumng",
+    "clicks_glossary",
+    "clicks_homepage",
+    "clicks_htmlactivity",
+    "clicks_oucollaborate",
+    "clicks_oucontent",
+    "clicks_ouelluminate",
+    "clicks_ouwiki",
+    "clicks_page",
+    "clicks_questionnaire",
+    "clicks_quiz",
+    "clicks_repeatactivity",
+    "clicks_resource",
+    "clicks_sharedsubpage",
+    "clicks_subpage",
+    "clicks_url"
+  ],
+  "Temporel": [
+    "n_active_days",
+    "std_days_activity",
+    "first_activity_day",
+    "engagement_span"
+  ],
+  "Démographie": [
+    "gender_num",
+    "age_band_num",
+    "education_level",
+    "imd_band_num",
+    "num_of_prev_attempts"
+  ],
+  "Historique de scores": [
+    "avg_score_hist",
+    "std_score_hist",
+    "min_score_hist",
+    "max_score_hist",
+    "n_completed_hist"
+  ],
+  "Sessions": [
+    "n_sessions",
+    "avg_clicks_per_session",
+    "std_clicks_per_session",
+    "max_session_clicks",
+    "min_session_clicks",
+    "total_period_clicks",
+    "avg_resources_per_session",
+    "avg_types_per_session"
+  ],
+  "Clics VLE (par période)": [
+    "period_clicks_dataplus",
+    "period_clicks_dualpane",
+    "period_clicks_externalquiz",
+    "period_clicks_folder",
+    "period_clicks_forumng",
+    "period_clicks_glossary",
+    "period_clicks_homepage",
+    "period_clicks_htmlactivity",
+    "period_clicks_oucollaborate",
+    "period_clicks_oucontent",
+    "period_clicks_ouelluminate",
+    "period_clicks_ouwiki",
+    "period_clicks_page",
+    "period_clicks_questionnaire",
+    "period_clicks_quiz",
+    "period_clicks_repeatactivity",
+    "period_clicks_resource",
+    "period_clicks_sharedsubpage",
+    "period_clicks_subpage",
+    "period_clicks_url"
+  ],
+  "Sentiment (historique)": [
+    "avg_sent_hist",
+    "std_sent_hist",
+    "min_sent_hist",
+    "max_sent_hist"
+  ]
+}

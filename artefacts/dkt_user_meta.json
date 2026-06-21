@@ -1,0 +1,11 @@
+{
+  "modele": "DKT (B&W stratifie)",
+  "role": "PRODUCTION cold-start utilisateur",
+  "AUC_moyenne_5sets": 0.9692014746038031,
+  "AUC_ecart_type": 0.005321998923286244,
+  "EMBED_DIM": 100,
+  "HIDDEN_DIM": 100,
+  "N_COURSES": 604,
+  "MAX_SEQ": 100,
+  "encodage_entree": "x[t] = course_idx[t] + correct[t]*N_COURSES + 1"
+}

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environnements
+.venv/
+venv/
+env/
+.env
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+# NE PAS ignorer ./artefacts/ — les modèles doivent être versionnés
+# pour que Streamlit Cloud puisse les charger.

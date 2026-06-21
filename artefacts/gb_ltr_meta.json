@@ -1,0 +1,28 @@
+{
+  "modele": "GradientBoostingClassifier (sklearn) \u2014 Config D",
+  "role": "PRODUCTION recommandation cas nominal (Learning-to-Rank)",
+  "n_features": 66,
+  "GB_PARAMS": {
+    "n_estimators": 300,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "min_samples_leaf": 20,
+    "subsample": 0.8,
+    "random_state": 42
+  },
+  "metriques": {
+    "acc": 0.8938933811422927,
+    "prec": 0.9047894940131325,
+    "rec": 0.9817686504610227,
+    "f1": 0.9417085427135679,
+    "auc": 0.8748259015002283,
+    "cv_auc_mean": 0.8759034214412205,
+    "cv_auc_std": 0.0009296349263166274,
+    "rank": {
+      "p10": 0.951,
+      "ndcg10": 0.9839,
+      "recall10": 1.0,
+      "n_users": 6811
+    }
+  }
+}

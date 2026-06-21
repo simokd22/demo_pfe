@@ -1,0 +1,11 @@
+{
+  "modele": "EERNN-M (contenu semantique all-mpnet-base-v2)",
+  "role": "PRODUCTION cold-start item",
+  "AUC_moyenne_5folds": 0.9606734136846011,
+  "AUC_ecart_type": 0.0021426030174978156,
+  "EMBED_DIM": 100,
+  "HIDDEN_DIM": 100,
+  "SEM_DIM": 768,
+  "N_COURSES": 604,
+  "MAX_SEQ": 100
+}
