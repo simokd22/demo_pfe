@@ -76,8 +76,7 @@ button[data-baseweb="tab"][aria-selected="true"] {{ color:{BLUE}; }}
 .side-note {{ font-size:.8rem; color:{MUTED}; line-height:1.45; }}
 
 /* nettoyage visuel pour la démo */
-#MainMenu, footer {{ visibility:hidden; }}
-div[data-testid="stToolbar"] {{ display:none; }}
+
 </style>
 """, unsafe_allow_html=True)
 
